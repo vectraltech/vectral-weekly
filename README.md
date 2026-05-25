@@ -20,7 +20,7 @@ Clone, fork, remix — that's what they're here for.
 
 | # | Date | Topic | Folder |
 |---|------|-------|--------|
-| _Coming soon_ | | | |
+| 000 | 2026-05-25 | Gemini Managed Agents — your first agent in 30 lines | [issues/000-gemini-managed-agents/](./issues/000-gemini-managed-agents/) |
 
 ## License
 
