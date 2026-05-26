@@ -13,6 +13,7 @@ Every issue gets its own folder under [`/issues`](./issues), containing:
 - A working starter repo for whatever AI release was covered that week
 - A README explaining what it does and how to run it
 - Any prompts, configs, or scripts needed to reproduce the build
+- A test harness that proves the starter actually works
 
 Clone, fork, remix — that's what they're here for.
 
@@ -20,7 +21,7 @@ Clone, fork, remix — that's what they're here for.
 
 | # | Date | Topic | Folder |
 |---|------|-------|--------|
-| 000 | 2026-05-25 | Gemini Managed Agents — your first agent in 30 lines | [issues/000-gemini-managed-agents/](./issues/000-gemini-managed-agents/) |
+| 000 | 2026-05-25 | Your first MCP server in 30 lines | [issues/000-mcp-url-reader/](./issues/000-mcp-url-reader/) |
 
 ## License
 
